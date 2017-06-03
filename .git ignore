@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
+$git status
+On branch master
+Initial commit
+Untracked files:
+.gitignore
+blog/
+manage.py
+mysite/
+nothing added to commit but untracked files present (use "git add" to track)
